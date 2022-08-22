@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+    Background: #f5f5f5;
+}
+
+button {
+    cursor: pointer;
+    cursor: center;
+}
+
+/*Background - #f5f5f5;
+cardshadow - box-shadow: 0 3rem 6rem rgb(0 0 0 / 10%);
+button color: #3363ff;
+button background-color: #e6ecff;
+*/

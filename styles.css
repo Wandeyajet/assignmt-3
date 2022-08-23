@@ -107,7 +107,7 @@ p {
     box-shadow: 0 3rem 6rem rgb(0 0 0 / 20%);
 }
 
-@media and (max-width: 800px) { 
+/*@media and (max-width: 800px) { 
    .container{
 
    } 

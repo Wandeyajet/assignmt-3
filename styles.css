@@ -91,8 +91,8 @@ h1{
     font-size: 35px;
     padding: 20px;
     padding-top: 16px;
-
 }
+
 p {
     padding: 0 16px 35px 30px;
     line-height: 2.1rem;
@@ -115,14 +115,11 @@ p {
      align-items: center;
      padding-bottom: 30px;
  } 
-
  .box-2{
-     margin-top: 30px;
+     margin-top: 40px;
  }
- 
  .box-3{
-     margin-top: 30px;
-  
+     margin-top: 40px;
  }
  }
 
@@ -132,14 +129,11 @@ p {
      align-items: center;
      padding-bottom: 30px;
  } 
-
  .box-2{
      margin-top: 30px;
  }
-
  .box-3{
      margin-top: 30px;
-  
  }
  }
 
